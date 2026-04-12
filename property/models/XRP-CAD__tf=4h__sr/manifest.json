@@ -290,8 +290,8 @@
     "sr__p=100__bounce_ratio_resistance__tf=1d",
     "sr__p=100__bounce_ratio_support__tf=1d"
   ],
-  "accuracy": 0.595,
-  "precision": 0.569,
-  "recall": 0.569,
-  "score": 0.578
+  "accuracy": 0.632,
+  "precision": 0.644,
+  "recall": 0.483,
+  "score": 0.586
 }
