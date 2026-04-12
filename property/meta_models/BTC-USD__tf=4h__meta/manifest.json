@@ -1,0 +1,25 @@
+{
+  "model_name": "BTC-USD__tf=4h__meta",
+  "features": [
+    "ema__prob",
+    "ema__conf",
+    "ema__exp_profit",
+    "rsi__prob",
+    "rsi__conf",
+    "rsi__exp_profit",
+    "sma__prob",
+    "sma__conf",
+    "sma__exp_profit",
+    "sr__prob",
+    "sr__conf",
+    "sr__exp_profit",
+    "vwap__prob",
+    "vwap__conf",
+    "vwap__exp_profit",
+    "close"
+  ],
+  "accuracy": 0.592,
+  "precision": 0.742,
+  "recall": 0.769,
+  "score": 0.701
+}
