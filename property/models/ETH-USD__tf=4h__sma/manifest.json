@@ -122,8 +122,8 @@
     "sma__p=100__price_div__tf=1d",
     "sma__p=100__streak_above__tf=1d"
   ],
-  "accuracy": 0.694,
-  "precision": 0.699,
-  "recall": 0.877,
-  "score": 0.757
+  "accuracy": 0.688,
+  "precision": 0.665,
+  "recall": 0.953,
+  "score": 0.769
 }
