@@ -122,8 +122,8 @@
     "ema__p=100__price_div__tf=1d",
     "ema__p=100__streak_above__tf=1d"
   ],
-  "accuracy": 0.719,
-  "precision": 0.698,
-  "recall": 0.927,
-  "score": 0.782
+  "accuracy": 0.722,
+  "precision": 0.69,
+  "recall": 0.967,
+  "score": 0.793
 }
