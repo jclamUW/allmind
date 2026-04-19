@@ -18,8 +18,8 @@
     "vwap__exp_profit",
     "close"
   ],
-  "accuracy": 0.678,
-  "precision": 0.66,
-  "recall": 0.875,
-  "score": 0.738
+  "accuracy": 0.702,
+  "precision": 0.683,
+  "recall": 0.867,
+  "score": 0.751
 }
