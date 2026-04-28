@@ -146,8 +146,8 @@
     "vwap__p=100__price_div__tf=1d",
     "vwap__p=100__streak_above__tf=1d"
   ],
-  "accuracy": 0.695,
-  "precision": 0.643,
-  "recall": 0.937,
-  "score": 0.758
+  "accuracy": 0.702,
+  "precision": 0.642,
+  "recall": 0.932,
+  "score": 0.759
 }
