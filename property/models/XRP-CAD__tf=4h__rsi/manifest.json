@@ -218,8 +218,8 @@
     "rsi__p=100__dist_to_overbought__tf=1d",
     "rsi__p=100__dist_to_oversold__tf=1d"
   ],
-  "accuracy": 0.668,
-  "precision": 0.694,
-  "recall": 0.457,
-  "score": 0.607
+  "accuracy": 0.694,
+  "precision": 0.724,
+  "recall": 0.509,
+  "score": 0.642
 }
