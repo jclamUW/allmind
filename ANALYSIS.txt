@@ -2986,3 +2986,21 @@ Symbol:                               XRP/CAD (4h)
 Current analysis:                     HOLD
 Next entry/exit:                      (2.12072 - 2.33415) --> None (30.536% chance of price increase)
 Average historic expected returns:    -1.315%
+
+========== 09-25-2026 10:07:39 ==========
+Symbol:                               BTC/USD (4h)
+Current analysis:                     HOLD
+Next entry/exit:                      (84024.2 - None) --> None (58.138% chance of price increase)
+Average historic expected returns:    0.241%
+
+========== 09-25-2026 10:11:16 ==========
+Symbol:                               ETH/USD (4h)
+Current analysis:                     HOLD
+Next entry/exit:                      (2671.23 - 2806.69) --> None (67.682% chance of price increase)
+Average historic expected returns:    0.904%
+
+========== 09-25-2026 10:14:52 ==========
+Symbol:                               XRP/CAD (4h)
+Current analysis:                     HOLD
+Next entry/exit:                      (2.15906 - 2.33415) --> None (30.275% chance of price increase)
+Average historic expected returns:    -1.314%
